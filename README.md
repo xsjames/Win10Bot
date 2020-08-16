@@ -1,3 +1,5 @@
+请求您删除部分侵权代码！请您联系我，电话/微信：17512549214 邮箱：2259461527@qq.com
+
 # Win10Bot
 Windows 10 IoT Robot and Framework (Arduino, Raspberry Pi)
 
@@ -17,7 +19,7 @@ It has four ARM boards (3 RPi-3 and one Odroid C) one of which runs Windows 10 I
 Plucky uses components based on:
 - Arduino:
 
- (a) ParkingSensorI2C: using "Witson� LED Display Car Vehicle Parking Reverse Backup Radar System with 4 Parking Sensors" available on Amazon - provides sonar-based obstacle detection. It is queried by PluckyWheels over I2C. Works on Pro Mini 5V 328.
+ (a) ParkingSensorI2C: using "Witson® LED Display Car Vehicle Parking Reverse Backup Radar System with 4 Parking Sensors" available on Amazon - provides sonar-based obstacle detection. It is queried by PluckyWheels over I2C. Works on Pro Mini 5V 328.
  
  (b) GPSKitchenSink: - a modified TinyGPS example that takes NMEA lines from U-blox NEO 6M GPS and sends only relevant info to PluckyWheels Serial1. Works on Arduino Leonardo.
 
